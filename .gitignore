@@ -1,0 +1,7 @@
+lr
+old_outputs
+outputs 
+outputs_new 
+*.ipynb
+hessian_1.py
+old
